@@ -8,8 +8,8 @@
 
 
 ### Garden:
-#### Soil water Saturation
-#### Sunlight Concentration
+#### Soil water Level
+#### Sunlight Exposure
 
 ### Pool:
 #### Water Level
